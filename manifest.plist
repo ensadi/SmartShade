@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://smartshade.ensadi.com/SmartShade.ipa</string>
+					<string>https://github.com/ensadi/SmartShade/raw/master/SmartShade.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://smartshade.ensadi.com/SmartShadeLogo_57.png</string>
+					<string>https://github.com/ensadi/SmartShade/raw/master/SmartShadeLogo_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://smartshade.ensadi.com/SmartShadeLogo_512.png</string>
+					<string>https://github.com/ensadi/SmartShade/raw/master/SmartShadeLogo_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
